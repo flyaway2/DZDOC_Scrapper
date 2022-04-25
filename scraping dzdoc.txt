@@ -1,0 +1,8 @@
+DZDOC.com website scraping
+-First I need to scrape all the specialties and wilaya and commune, I might need them
+somewhere else maybe in another project
+https://dzdoc.com/
+scrape doctors with this url:https://dzdoc.com/profil.php?id=116
+there's approximately 9000 doctors
+checking and trying different IDs manually I found that the
+
